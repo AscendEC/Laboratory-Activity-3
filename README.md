@@ -8,7 +8,7 @@ A simple console-based **Library Book Management System** built using **Object-O
 This program was created as a practice activity / laboratory requirement to demonstrate core OOP concepts.
 
 ## Disclaimer
-This repository is created solely for educational purposes. The code, documentation, and all contents are submitted as a requirement for Laboratory Activity 2 of the CS15L course. This project is not intended for production use, commercial purposes, distribution as exemplary code, or as a reference for best practices in professional software development. No warranty of any kind is provided — express or implied. Use at your own risk.
+This repository is created solely for educational purposes. The code, documentation, and all contents are submitted as a requirement for Laboratory Activity 3 of the CS15L course. This project is not intended for production use, commercial purposes, distribution as exemplary code, or as a reference for best practices in professional software development. No warranty of any kind is provided — express or implied. Use at your own risk.
 
 © Ascend Earn Cañete / 553867
 
